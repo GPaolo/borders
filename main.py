@@ -175,6 +175,6 @@ class DrawStyle(object):
 
 
 if __name__ == "__main__":
-    image_name = "lights.jpg"
+    image_name = "ducks.jpg"
     style = DrawStyle(image_name)
     style.main()
